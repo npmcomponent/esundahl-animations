@@ -1,0 +1,19 @@
+{
+  "name": "esundahl-animations",
+  "description": "large colllection of css3 animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-attention-seekers": "git://github.com/npmcomponent/esundahl-attention-seekers.git",
+    "esundahl-bouncing-entrances": "git://github.com/npmcomponent/esundahl-bouncing-entrances.git",
+    "esundahl-bouncing-exits": "git://github.com/npmcomponent/esundahl-bouncing-exits.git",
+    "esundahl-fading-entrances": "git://github.com/npmcomponent/esundahl-fading-entrances.git",
+    "esundahl-fading-exits": "git://github.com/npmcomponent/esundahl-fading-exits.git",
+    "esundahl-flippers": "git://github.com/npmcomponent/esundahl-flippers.git",
+    "esundahl-light-speed": "git://github.com/npmcomponent/esundahl-light-speed.git",
+    "esundahl-rotating-entrances": "git://github.com/npmcomponent/esundahl-rotating-entrances.git",
+    "esundahl-rotating-exits": "git://github.com/npmcomponent/esundahl-rotating-exits.git",
+    "esundahl-specials": "git://github.com/npmcomponent/esundahl-specials.git"
+  },
+  "license": "MIT"
+}
